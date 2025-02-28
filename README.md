@@ -6,8 +6,8 @@ This project aims to predict customer churn for a telecom company based on vario
 ## ⚡ Features
 - **Exploratory Data Analysis (EDA)**: Visualization and insights into customer behavior.
 - **Data Preprocessing**: Handling missing values, encoding categorical variables, and feature scaling.
-- **Predictive Modeling**: Using machine learning models such as Logistic Regression, Decision Trees, and Random Forest to predict churn.
-- **Model Evaluation**: Performance metrics including accuracy, precision, recall, and F1-score.
+- **Predictive Modeling**: Using Logistic Regression Machine Learning model.
+- **Model Evaluation**: Performance metrics including accuracy_score, confusion matrix, and k-fold cross validation. 
 - **Feature Importance Analysis**: Identifying key factors influencing churn.
 
 ## 🛠️ Technologies Used
