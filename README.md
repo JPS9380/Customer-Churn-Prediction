@@ -6,6 +6,7 @@ This project aims to predict customer churn for a telecom company based on vario
 ## Features
 - **Exploratory Data Analysis (EDA)**: Visualization and insights into customer behavior.
 - **Data Preprocessing**: Handling missing values, encoding categorical variables, and feature scaling.
+- **Hyperparameter Tuning**: Using optuna to perform hyperparameter tuning for logistic regression.
 - **Predictive Modeling**: Using Logistic Regression Machine Learning model.
 - **Model Evaluation**: Performance metrics including accuracy_score, confusion matrix, and k-fold cross validation. 
 - **Feature Importance Analysis**: Identifying key factors influencing churn.
